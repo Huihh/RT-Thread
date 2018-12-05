@@ -1,0 +1,6 @@
+
+#  表示此为注释,将被Git忽略
+!/Project/main.c
+/Project
+/Project/Listings
+/Project/Objects
